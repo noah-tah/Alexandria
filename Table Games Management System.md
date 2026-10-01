@@ -27,12 +27,28 @@ Table Games Management System that provides
 	- Table Maximum
 	- Chip Fill
 	- Chip Credit
+	- Player Buy-In
+	- Player Cash-Out
 
 - Where are we going to store information like default tray amounts that we can fill to on these tables?
 	- I want to be able to automatically request a fill for the specific amount that will fill that specific table to the default filled tray amount defined probably by the table min/max to ensure that the correct denominations are used on tables with higher/lower limits.
 
-What type of information does the dealer rotation need to show?
+- What type of information does the dealer rotation need to show?
 	- Should display the attributes that each dealer has (what games they are able to deal)
 	- Dealer assignment is still pit bosses discretion.
-Are we considering a dealer check-in screen at shift start?
+
+
+- Are we considering a dealer check-in screen at shift start?
 	- Pit boss does a roll call on employees, inputs available dealers into the rotation builder system.
+
+- What is the workflow going to look like for the pit boss?
+	- Check dealers in
+	- Assign Dealers to Tables
+	- Allow modification to Dealer rotation
+	- Open table, verify that closing amount matches opening amount
+	- Buy players in/ Cash Players out
+	- Fill Tables, Credit Tables
+	- Close Table
+	- View player records, table records, dealer records.
+
+
