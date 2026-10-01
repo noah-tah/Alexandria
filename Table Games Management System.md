@@ -8,4 +8,12 @@ Table Games Management System that provides
 	- Seats that are occupied, and seats that are not occupied.
 	- An occupancy count displayed on the table.
 	- A rough shape of the pit should be displayed, to give an interactive experience.
-	- 
+	- There should be a main modal
+		- Total # of active players
+		- Total # of players for day
+		- Total amount of buy-ins
+		- Total amount of cash-outs
+		- Pit Bosses
+	- Date and time should be displayed somewhere.
+
+- What type of data should be displayed when you click on a table?
