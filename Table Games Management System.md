@@ -24,4 +24,9 @@ Table Games Management System that provides
 	- Total Buy-Ins on this table
 	- Total Cash-Outs on this table
 	- Table Minimum
-		- Table Maximum
+	- Table Maximum
+	- Chip Fill
+	- Chip Credit
+
+- Where are we going to store information like default tray amounts that we can fill to on these tables?
+	- I want to be able to automatically request a fill for the specific amount that will fill that specific table to the default filled tray amount defined probably by the table min/max to ensure that the correct denominations are used on tables with higher/lower limits.
