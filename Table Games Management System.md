@@ -17,3 +17,11 @@ Table Games Management System that provides
 	- Date and time should be displayed somewhere.
 
 - What type of data should be displayed when you click on a table?
+	- Active Dealer
+	- Next Dealer
+	- Total Players Active on this Table
+	- Total Players for Day on this Table
+	- Total Buy-Ins on this table
+	- Total Cash-Outs on this table
+	- Table Minimum
+		- Table Maximum
