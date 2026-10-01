@@ -1,4 +1,6 @@
 
+
+# High-level breakdown
 Table Games Management System that provides
 - Dashboard with birds-eye view of the pit
 	- Point-and-click functionality to view the details of an active table, or to open a closed table.
@@ -51,4 +53,34 @@ Table Games Management System that provides
 	- Close Table
 	- View player records, table records, dealer records.
 
+
+# Data Models
+
+- Dealer
+	- Name
+	- Shift
+	- Badge #
+	- Current Table
+	- Skills
+		- List tables that the dealer can deal
+
+
+- Player
+	- Name
+	- DOB
+	- Height
+	- Weight
+	- Driver's License Number
+	- Player History
+		- Buy-In History
+		- Cash-Out History
+	- Currently Playing
+
+Table
+	- Game Name
+	- Table Minimum
+	- Table Maximum
+	- Tray Amount
+	- Current Players
+	- Total Players for Day
 
