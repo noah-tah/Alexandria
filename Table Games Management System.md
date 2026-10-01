@@ -54,6 +54,9 @@ Table Games Management System that provides
 	- View player records, table records, dealer records.
 
 
+- What does the dealer rotation screen need?
+	- Should be able to create separate rotations for different sections of the pit depending on the number of dealers available and the amount of tables that are open.
+	- I want to be able to allow there to be a craps rotation, and also multiple blackjack rotations, because blackjack dealers will likely do 2 tables in a rotation, then go to break, then have to go to 2 more tables on the other side of the pit.
 # Data Models
 
 - Dealer
