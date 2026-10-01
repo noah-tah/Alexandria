@@ -32,6 +32,7 @@ Table Games Management System that provides
 	- I want to be able to automatically request a fill for the specific amount that will fill that specific table to the default filled tray amount defined probably by the table min/max to ensure that the correct denominations are used on tables with higher/lower limits.
 
 What type of information does the dealer rotation need to show?
-
+	- Should display the attributes that each dealer has (what games they are able to deal)
+	- Dealer assignment is still pit bosses discretion.
 Are we considering a dealer check-in screen at shift start?
 	- Pit boss does a roll call on employees, inputs available dealers into the rotation builder system.
