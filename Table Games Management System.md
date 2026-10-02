@@ -93,4 +93,10 @@ Table
 	- MTLs
 
 - NIGC Minimum Internal Control Standards
-	- Dictates the required fields
+	- Dictates the required fields and standards for all the things that will be needed
+	- Separate gapless sequences for fills and credits
+	- One active series per slip type, enforced in the database
+	- Slips are immutable once issued; corrections happen through void records with reason, user and timestamp
+	- Three copies with role-based custody, the restricted copy inaccessible to the cage and pit
+	- A sequence-gap and duplicate audit report
+	- A full audit log of who created, signed, transported, and received each slip
