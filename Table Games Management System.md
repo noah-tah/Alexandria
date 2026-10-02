@@ -87,3 +87,10 @@ Table
 	- Current Players
 	- Total Players for Day
 
+
+- Title 31 / Bank Secrecy Act
+	- CTRs
+	- MTLs
+
+- NIGC Minimum Internal Control Standards
+	- Dictates the required fields
