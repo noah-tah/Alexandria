@@ -35,6 +35,7 @@ Table Games Management System that provides
 - Where are we going to store information like default tray amounts that we can fill to on these tables?
 	- I want to be able to automatically request a fill for the specific amount that will fill that specific table to the default filled tray amount defined probably by the table min/max to ensure that the correct denominations are used on tables with higher/lower limits.
 
+# Dealer rotation
 - What type of information does the dealer rotation need to show?
 	- Should display the attributes that each dealer has (what games they are able to deal)
 	- Dealer assignment is still pit bosses discretion.
@@ -57,7 +58,7 @@ Table Games Management System that provides
 - What does the dealer rotation screen need?
 	- Should be able to create separate rotations for different sections of the pit depending on the number of dealers available and the amount of tables that are open.
 	- I want to be able to allow there to be a craps rotation, and also multiple blackjack rotations, because blackjack dealers will likely do 2 tables in a rotation, then go to break, then have to go to 2 more tables on the other side of the pit.
-# Data Models
+# TGMS Data Models
 
 - Dealer
 	- Name
@@ -87,7 +88,7 @@ Table
 	- Current Players
 	- Total Players for Day
 
-
+# TGMS Gaming Standards
 - Title 31 / Bank Secrecy Act
 	- CTRs
 	- MTLs
@@ -100,3 +101,7 @@ Table
 	- Three copies with role-based custody, the restricted copy inaccessible to the cage and pit
 	- A sequence-gap and duplicate audit report
 	- A full audit log of who created, signed, transported, and received each slip
+
+
+
+# TGMS Architecture
