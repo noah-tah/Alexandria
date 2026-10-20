@@ -54,3 +54,5 @@ cant do that anymore
 - Entrance facility where telecommunications connects to the corporate network, google this
 - Electrician and IT crossover when it comes to installing wiring and internet wiring specifically.
 - What are the roles of the different colors of wires contained in the Twisted Pair wire?
+
+# Website Development 10/20/2026
