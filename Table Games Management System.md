@@ -1,4 +1,4 @@
-
+	 
 
 # High-level breakdown
 Table Games Management System that provides
@@ -105,3 +105,47 @@ Table
 
 
 # TGMS Architecture
+
+
+# Action Plan
+- Week 1
+	- Set up the repo, database, and backend. Create tables for games, gaming tables, table sessions, and employees, with seed data. Get opening and closing a table work through the API.
+- Week 2
+	- Build the dashboard pit map showing open and closed tables.
+- Week 3
+	- Add players and buy-ins/cash-outs. Show the totals on the dashboard and table view.
+- Week 4
+	- Add fills and credits with gapless slip numbers and voids.
+- Week 5
+	- Add tray pars by denominations, and auto-calculate the fille amount from a tray count
+- Week 6
+	- Add dealer check-in and rotations, keeping the first version simple.
+- Week 7
+	- Add login with roles, plus the audit log
+- Week 8
+	- Add the Title 31 alert and slip sequence gap report.
+-  Week 9
+	- Write tests for the slip and transaction logic, fix bugs, and deploy it somewhere live.
+- Week 10
+	- Write the README, record a 2-3 minute demo video, and use the rest as buffer.
+
+
+Why this is good for my resume
+	- Live link
+	- README explaining decisions
+		- Why slips are immutable
+		- Why I didn't use a regular database sequence
+		- What I would do differently in production.
+
+# Tech Stack
+- Python FastAPI
+	- Free interactive docs page where you can test every endpoint in the browser without having any frontend written
+- React frontend
+	- handles the clickable pit map, live table status, and modals. Typescript for sure
+- PostgreSQL for DB
+	- Transactions, constraints, and locking slip numbering needs, most employers use this.
+
+
+- Write something by hand the first time, then delegate the repeats
+
+
