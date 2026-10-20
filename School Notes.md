@@ -51,3 +51,5 @@ cant do that anymore
 # Networking 10/20/2026
 - What is a patch panel used for?
 - Watch structured cabling videos
+- Entrance facility where telecommunications connects to the corporate network, google this
+- Electrician and IT crossover when it comes to installing wiring and internet wiring specifically.
