@@ -53,3 +53,4 @@ cant do that anymore
 - Watch structured cabling videos
 - Entrance facility where telecommunications connects to the corporate network, google this
 - Electrician and IT crossover when it comes to installing wiring and internet wiring specifically.
+- What are the roles of the different colors of wires contained in the Twisted Pair wire?
