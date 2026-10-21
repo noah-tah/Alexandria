@@ -13,3 +13,9 @@ I DO NOT want a summary of these articles. I know what they say. I want to know 
 I included at the bottom for fun, the GitHub of the Tracker Hacking files.
 
 [https://github.com/tractorhacking](https://github.com/tractorhacking)
+
+
+
+
+The conflict between John Deere and John Deere tractor owners is a complicated issue. The thing that rubs me wrong the most is that the CEO came out and said that "once the tractor is purchased, is is their own, and they are allowed to maintain and repair it at their choosing", to which a farmer replied that the CEO was obviously lying and that he should take a look at the documentation. 
+
