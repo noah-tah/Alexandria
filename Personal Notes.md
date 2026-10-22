@@ -28,5 +28,9 @@ Today I am thinking about a new strategy to losing weight. I think it mostly com
 - Then one hundred percent focus on my programming blocks.
 - Should then be able to have the framework to start working out by then since by then I should be weed free and need something to keep me going.
 - Check out the faster spotify app that got released on twitter
-- 
+
+
+
+
+
 
