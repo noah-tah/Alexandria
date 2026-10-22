@@ -34,3 +34,6 @@ Today I am thinking about a new strategy to losing weight. I think it mostly com
 
 
 
+# 10/22/2026
+- There are 5 steps to communication
+- 
