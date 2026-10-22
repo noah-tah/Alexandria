@@ -52,4 +52,5 @@ Today I am thinking about a new strategy to losing weight. I think it mostly com
 - [ ] buy replacement trashcans for outside
 - [ ] spray again for bugs and mice
 - [ ] find another hobby
+- [x] uninstall league of legends, sadly
 
