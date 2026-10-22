@@ -36,4 +36,20 @@ Today I am thinking about a new strategy to losing weight. I think it mostly com
 
 # 10/22/2026
 - There are 5 steps to communication
-- 
+
+- [x] Garage started
+- [x] Casino training 
+- [ ] note taking system defined
+- [ ] get dollars of change for amelia's school
+- [ ] begin working on table games management system
+- [ ] see if kindle is available on pc
+- [ ] email mr. bagley about the fifth edition of that book
+- [ ] finish the advanced computing topics course
+- [ ] finish the garage
+- [ ] put together kids room
+- [ ] buy spot washer, clean living room floors
+- [ ] mow the lawn, weedeat
+- [ ] buy replacement trashcans for outside
+- [ ] spray again for bugs and mice
+- [ ] find another hobby
+
