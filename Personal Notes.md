@@ -59,11 +59,11 @@ Today I am thinking about a new strategy to losing weight. I think it mostly com
 
 # 10/25/2026 - 10/26/2026
 - [ ] Book Fair - Amelia (After School)
-- [ ] Call dumpster people for a dump
+- [x] Call dumpster people for a dump
 - [ ] Begin putting together kid's room
 - [ ] Work on garage
 - [ ] After 1pm class, do some homework at school.
 - [ ] Can perhaps come up with an excuse to Zoom to my 3:25 class, getting attendance and the book fair accomplished.
-- [ ] Call Ashley's dentist
+- [ ] Call MY DENTIST
 - [ ] Get killed mouse into trash that is in the kitchen
 
