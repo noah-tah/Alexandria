@@ -65,4 +65,5 @@ Today I am thinking about a new strategy to losing weight. I think it mostly com
 - [ ] After 1pm class, do some homework at school.
 - [ ] Can perhaps come up with an excuse to Zoom to my 3:25 class, getting attendance and the book fair accomplished.
 - [ ] Call Ashley's dentist
+- [ ] Get killed mouse into trash that is in the kitchen
 
