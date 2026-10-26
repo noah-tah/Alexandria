@@ -40,17 +40,29 @@ Today I am thinking about a new strategy to losing weight. I think it mostly com
 - [x] Garage started
 - [x] Casino training 
 - [ ] note taking system defined
-- [ ] get dollars of change for amelia's school
+- [x] get dollars of change for amelia's school
 - [ ] begin working on table games management system
 - [ ] see if kindle is available on pc
 - [ ] email mr. bagley about the fifth edition of that book
 - [ ] finish the advanced computing topics course
 - [ ] finish the garage
 - [ ] put together kids room
-- [ ] buy spot washer, clean living room floors
+- [x] buy spot washer, clean living room floors
 - [ ] mow the lawn, weedeat
 - [ ] buy replacement trashcans for outside
 - [ ] spray again for bugs and mice
 - [ ] find another hobby
 - [x] uninstall league of legends, sadly
+
+
+
+
+# 10/25/2026 - 10/26/2026
+- [ ] Book Fair - Amelia (After School)
+- [ ] Call dumpster people for a dump
+- [ ] Begin putting together kid's room
+- [ ] Work on garage
+- [ ] After 1pm class, do some homework at school.
+- [ ] Can perhaps come up with an excuse to Zoom to my 3:25 class, getting attendance and the book fair accomplished.
+- [ ] Call Ashley's dentist
 
