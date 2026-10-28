@@ -15,7 +15,7 @@ Table Games Management System that provides
 		- Total # of players for day
 		- Total amount of buy-ins
 		- Total amount of cash-outs
-		- Pit Bosses
+		- Active Pit Bosses
 	- Date and time should be displayed somewhere.
 
 - What type of data should be displayed when you click on a table?
