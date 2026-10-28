@@ -14,4 +14,22 @@
 - Fill and credit requests
 - Gapless slip sequences
 - Immutable slips and voids
-- Signatures 
+- Signatures and custody
+- Audit log
+- MTL entries
+- CTR aggregation
+- Sequence audit report
+# Phase 3 - Dealer rotation
+- Roll call system
+- Rotation builder
+- Skill-aware assignment
+- Modify rotations and breaks
+# Phase 4 - Dashboard UI
+- Frontend skeleton
+- Pit Map
+- Pit summary panel
+- Table detail and actions
+- Live updates
+## Phase 5 - Ship
+- Tests for money and slips
+- Deploy, seed, README
