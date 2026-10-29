@@ -1,3 +1,4 @@
+[[Table Games Management System]]
 ## Phase 0 - Data Models
 - Write out data models
 - Build Entity Relationship Diagram for all data models

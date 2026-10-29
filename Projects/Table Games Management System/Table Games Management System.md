@@ -1,4 +1,5 @@
-	 
+[[Building Phases]]
+
 
 # High-level breakdown
 Table Games Management System that provides
