@@ -39,4 +39,7 @@ and test law enforcement and audit systems?
 
 
 
-I think that overall Facial Recognition Technology (FRT) has the potential to be one of the largest societal return on investments ever right next to Artifical Intelligence. However, I believe from what I have read that the biases against minorities and women, specifically african american women, these can not be reliable at scale just yet. Even then, there are so many regulations and "checks abd "
+I think that overall Facial Recognition Technology (FRT) has the potential to be one of the largest societal return on investments ever, right next to Artifical Intelligence. However, I believe from what I have read aboht the biases against minorities and women, specifically african american women, these can not be reliable at scale just yet. Even then, there are so many regulations and "checks and balances" that are not in place yet, like specifying in what contexts it is appropriate to use FRT and to what extent it is implemented based on the context of its use. There are also concerns about accountability, who is responsible when FRT makes a mistake and how do we audit?
+
+For it t
+
