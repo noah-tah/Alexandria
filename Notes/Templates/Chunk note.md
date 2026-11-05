@@ -3,7 +3,7 @@ chunk: "{{title}}"
 phase: 
 loop: full
 status: learning
-guided_build: {{date}}
+guided_build: {{date:YYYY-MM-DD}}
 recall_build: 
 review_3d: 
 review_1w: 
